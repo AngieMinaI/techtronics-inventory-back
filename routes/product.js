@@ -10,7 +10,7 @@ const {
   softDeleteProduct,
   hardDeleteProduct,
   restoreProduct
-} = require("../controllers/productController");
+} = require("../controllers/productController"); //controllers
 
 const {
   validateRegisterProduct,
